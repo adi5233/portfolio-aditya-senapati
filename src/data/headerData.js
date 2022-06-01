@@ -1,4 +1,4 @@
-import resume from '../assets/pdf/resume.pdf'
+// import resume from '../assets/pdf/resume.pdf'
 
 export const headerData = {
   name: "Aditya Senapati",
@@ -8,5 +8,6 @@ export const headerData = {
   image:
     "https://res.cloudinary.com/dk0sjly3e/image/upload/v1653998193/DSCN0355-01_vwznfx.jpg",
   // image: 'https://raw.githubusercontent.com/PhantomScript/asset-container/main/developer-portfolio/landingImg.png',
-  resumePdf: resume,
+  // resumePdf: resume,
+  resumePdf: "https://drive.google.com/file/d/1YWgJNdBSxjkaST_PGI1Rg0xAQv_xGdOq/view?usp=sharing",
 };

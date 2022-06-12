@@ -44,7 +44,7 @@
   flex-direction: row;
   align-items: flex-start;
   justify-content: space-between;
-  height: 175px;
+  height: 180px;
   padding: 1.5rem;
   border-radius: 20px;
   margin-bottom: 1.5rem;
@@ -181,7 +181,7 @@
   }
 
   .achievecard-details1 h2 {
-    font-size: 1.15rem;
+    font-size: 1.1rem;
   }
 
   .achievecard-details1 p {

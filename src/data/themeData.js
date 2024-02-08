@@ -20,8 +20,8 @@ import {
 
 export const themeData = {
   // theme:   purpleThemeLight,
-  // theme:    yellowThemeLight,
-  theme: blueThemeLight,
+  theme: yellowThemeDark,
+  // theme: blueThemeLight,
 };
 
 // Choose theme from above

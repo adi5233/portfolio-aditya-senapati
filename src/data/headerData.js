@@ -10,5 +10,5 @@ export const headerData = {
   // image: 'https://raw.githubusercontent.com/PhantomScript/asset-container/main/developer-portfolio/landingImg.png',
   // resumePdf: resume,
   resumePdf:
-    "https://drive.google.com/file/d/1YWgJNdBSxjkaST_PGI1Rg0xAQv_xGdOq/view?usp=sharing",
+    "https://drive.google.com/file/d/1HolfXhdnJ5I7GHW8zRPJklPrgPSS3Mnx/view?usp=sharing",
 };
